@@ -1,0 +1,5 @@
+C:\git\CustomWebApi\CustomWebApi\Authentication\bin\Debug\Authentication.dll
+C:\git\CustomWebApi\CustomWebApi\Authentication\bin\Debug\Authentication.pdb
+C:\git\CustomWebApi\CustomWebApi\Authentication\obj\Debug\Authentication.csprojResolveAssemblyReference.cache
+C:\git\CustomWebApi\CustomWebApi\Authentication\obj\Debug\Authentication.dll
+C:\git\CustomWebApi\CustomWebApi\Authentication\obj\Debug\Authentication.pdb

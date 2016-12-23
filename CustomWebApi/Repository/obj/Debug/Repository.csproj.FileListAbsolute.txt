@@ -1,0 +1,14 @@
+C:\git\CustomWebApi\CustomWebApi\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Repository.dll.config
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Repository.dll
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Repository.pdb
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\EntityFramework.dll
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Models.dll
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Models.pdb
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\EntityFramework.xml
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\CustomWebApi\CustomWebApi\Repository\obj\Debug\Repository.dll
+C:\git\CustomWebApi\CustomWebApi\Repository\obj\Debug\Repository.pdb
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Dapper.dll
+C:\git\CustomWebApi\CustomWebApi\Repository\bin\Debug\Dapper.xml

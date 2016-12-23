@@ -1,0 +1,7 @@
+C:\git\CustomWebApi\CustomWebApi\Models\bin\Debug\Models.dll
+C:\git\CustomWebApi\CustomWebApi\Models\bin\Debug\Models.pdb
+C:\git\CustomWebApi\CustomWebApi\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
+C:\git\CustomWebApi\CustomWebApi\Models\obj\Debug\Models.dll
+C:\git\CustomWebApi\CustomWebApi\Models\obj\Debug\Models.pdb
+C:\git\CustomWebApi\CustomWebApi\Models\bin\Debug\AutoMapper.dll
+C:\git\CustomWebApi\CustomWebApi\Models\bin\Debug\AutoMapper.xml

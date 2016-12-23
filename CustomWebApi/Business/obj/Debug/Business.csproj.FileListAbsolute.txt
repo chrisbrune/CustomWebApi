@@ -1,0 +1,13 @@
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\Business.dll
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\Business.pdb
+C:\git\CustomWebApi\CustomWebApi\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\git\CustomWebApi\CustomWebApi\Business\obj\Debug\Business.dll
+C:\git\CustomWebApi\CustomWebApi\Business\obj\Debug\Business.pdb
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\Models.dll
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\Repository.dll
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\ProposalEF.dll
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\EntityFramework.dll
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\Models.pdb
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\Repository.pdb
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\ProposalEF.pdb
+C:\git\CustomWebApi\CustomWebApi\Business\bin\Debug\EntityFramework.xml

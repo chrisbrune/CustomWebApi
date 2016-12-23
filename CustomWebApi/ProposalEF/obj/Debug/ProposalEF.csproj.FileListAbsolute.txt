@@ -1,0 +1,10 @@
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\ProposalEF.dll.config
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\ProposalEF.dll
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\ProposalEF.pdb
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\EntityFramework.dll
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\EntityFramework.xml
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\obj\Debug\ProposalEF.csprojResolveAssemblyReference.cache
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\obj\Debug\ProposalEF.dll
+C:\git\CustomWebApi\CustomWebApi\ProposalEF\obj\Debug\ProposalEF.pdb
